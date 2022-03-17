@@ -1,2 +1,1 @@
-# netfml
-Forge mods loader NET wrangler. 
+NET extension for the forge mod loader
